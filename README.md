@@ -32,7 +32,7 @@
 
 Both executables are built by GitHub Actions on every tag and published on the releases page.
 
-👉 **[Download the Latest Release (v269.29.0)](https://github.com/HenryCarm/CelSuite_Video_Helper_Studio/releases/latest)**
+👉 **[Download the Latest Release (v269.29.0)](https://github.com/HenryCarm/CelSuite_Video-Helper-Studio/releases/latest)**
 
 | Platform | Download Asset | Type | Description |
 | :-- | :-- | :-- | :-- |
